@@ -1,0 +1,1 @@
+If you have any questions regarding the Maker Protocol, please reach out to us on the [#dev](https://chat.makerdao.com/channel/dev) channel in chat.makerdao.com.  
